@@ -15,7 +15,7 @@ def fib(num):
             return -1
         return fib(num + 2) - fib(num + 1)
 
-
+# Добавляем исключение, если введено не число
 try:
     print(fib(int(input('Значение какого числа Фибоначчи Вас интересует: '))))
 except:
