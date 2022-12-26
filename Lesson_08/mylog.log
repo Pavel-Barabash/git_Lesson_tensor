@@ -1,0 +1,5 @@
+DEBUG:root:Hello World, i'm debug
+INFO:root:Hello World, i'm info
+WARNING:root:Hello World, i'm warning
+ERROR:root:Hello World, i'm error
+CRITICAL:root:Hello World, i'm critical
